@@ -53,29 +53,29 @@ class Solution
 
 
 //{ Driver Code Starts.
-int main()
-{
-    int T;
-    cin>>T;
+// int main()
+// {
+//     int T;
+//     cin>>T;
   
-    while(T--)
-    {
-        int n,m;
-        int k=0;
-        //cin>>k;
-        cin>>n>>m>>k;
-        int a[MAX][MAX];
+//     while(T--)
+//     {
+//         int n,m;
+//         int k=0;
+//         //cin>>k;
+//         cin>>n>>m>>k;
+//         int a[MAX][MAX];
         
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                cin>>a[i][j];
-            }
-        }
-        Solution ob;
-        cout<<ob.findK(a,n,m,k)<<endl;
+//         for(int i=0;i<n;i++)
+//         {
+//             for(int j=0;j<m;j++)
+//             {
+//                 cin>>a[i][j];
+//             }
+//         }
+//         Solution ob;
+//         cout<<ob.findK(a,n,m,k)<<endl;
         
        
-    }
-}
+//     }
+// }

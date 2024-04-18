@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-WHY GB is considered a BAD Practice ?
+//WHY GB is considered a BAD Practice ?
 int age = 25;
 
 int main() {
